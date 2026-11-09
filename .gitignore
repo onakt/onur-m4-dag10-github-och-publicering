@@ -1,0 +1,20 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example

@@ -6,6 +6,10 @@ En responsiv webbplats för ett fiktivt kafé i hjärtat av Stockholm. Här kan 
 
 [Besök Kafé Kardemumma](https://onakt.github.io/onur-m4-dag10-github-och-publicering/)
 
+## Förhandsvisning
+
+![Kafé Kardemumma - förhandsvisning](screenshots/kafe-kardemumma.png)
+
 ## Funktioner
 
 - Presentation av Kaféet
