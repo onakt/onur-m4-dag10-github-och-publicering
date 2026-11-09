@@ -1,13 +1,13 @@
 /* Designtokens från Kafé Kardemummas design. Ändra här – det slår igenom överallt. */
 :root {
   /* Färger */
-  --color-primary: #8c1010;
-  --color-primary-dark: #5e0a0a;
+  --color-primary: #108c2b;
+  --color-primary-dark: #0a5e15;
   --color-brown: #5b3a29;
   --color-brown-dark: #2b1c14;
   --color-heading: #3b2418;
   --color-text: #222222;
-  --color-bg: #fffaf3;
+  --color-bg: #f3fff8;
   --color-surface: #ffffff;
   --color-tint: #f3e3cf;
   --color-border: #e3d5c3;
